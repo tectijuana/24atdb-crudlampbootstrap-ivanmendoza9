@@ -1,4 +1,5 @@
 
+<img width="994" alt="Screenshot 2024-04-18 at 12 50 10" src="https://github.com/tectijuana/LAMPCRUD-bootstrap/assets/2523851/24fe7151-d0ac-416f-8927-028342d3c9ff">
 
 
 ### Descripción de la Práctica
