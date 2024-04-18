@@ -12,7 +12,6 @@
 - Conocimientos básicos de HTML y CSS con Bootstrap.
 - AWSAcademy creditos
 
-
 **Descripción del Proyecto:**
 Cada estudiante deberá desarrollar una aplicación web que gestione una base de datos sencilla (por ejemplo, productos, eventos) debe incluir imagenes. La aplicación debe permitir a los usuarios realizar las siguientes operaciones:
 - **Crear** nuevos registros.
@@ -38,6 +37,9 @@ Las imagenes son generativas por Ai con el fin de darle caliddad a la informaci�
 3. **Desarrollo del Front-End:** Utilizar HTML, CSS y Bootstrap para diseñar la interfaz de usuario que interactúe con la base de datos.
 4. **Implementación del Back-End:** Escribir los scripts PHP necesarios para manejar las operaciones CRUD.
 5. **Integración y Pruebas:** Asegurar que todas las partes trabajen conjuntamente y realizar pruebas para confirmar que las operaciones CRUD funcionan correctamente.
+
+<img width="400" alt="Screenshot 2024-04-18 at 12 57 24" src="https://github.com/tectijuana/LAMPCRUD-bootstrap/assets/2523851/9558507d-4c30-41cf-b291-e539b19537d0">
+
 
 ### Rúbrica de Evaluación
 
