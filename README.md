@@ -47,11 +47,15 @@ Las imagenes son generativas por Ai con el fin de darle caliddad a la informaci�
 |----------------------------------|---------------------------------------|-------------------------------------|-------------------------------------|-------------------------------------|
 | **Funcionalidad CRUD**           | Todas las operaciones CRUD implementadas correctamente sin errores. | Pequeños errores que no afectan la funcionalidad general. | Algunas operaciones CRUD no funcionan correctamente. | Muchas operaciones CRUD no funcionan o no están implementadas. |
 | **Diseño y Usabilidad**          | Interfaz elegante y completamente responsiva. Uso avanzado de Bootstrap. | Interfaz bien diseñada y mayormente responsiva. Uso adecuado de Bootstrap. | Interfaz funcional pero con problemas de diseño o responsividad. | Diseño pobre o no responsivo. Uso inadecuado de Bootstrap. |
-| **Calidad del Código**           | Código bien organizado y comentado. Uso eficiente de PHP y SQL. | Código generalmente bien organizado. Algunos comentarios. Uso adecuado de PHP y SQL. | Código desorganizado o escasamente comentado. Uso ineficaz pero funcional de PHP y SQL. | Código desorganizado y sin comentarios. Uso ineficiente y problemático de PHP y SQL. |
-| **Documentación y Presentación** | Documentación completa incluyendo comentarios en el código y README detallado. Presentación clara y profesional. | Documentación adecuada y README útil. Presentación clara. | Documentación o README incompletos. Presentación básica. | Falta documentación o README. Presentación pobre o inexistente. |
+| **Calidad del Código**           | Código bien organizado y comentado. Uso eficiente de PHP y SQL. Encabezado del programador el el SQL, bootstrap principal| Código generalmente bien organizado. Algunos comentarios. Uso adecuado de PHP y SQL. | Código desorganizado o escasamente comentado. Uso ineficaz pero funcional de PHP y SQL. | Código desorganizado y sin comentarios. Uso ineficiente y problemático de PHP y SQL. |
+| **Documentación y Presentación** | Documentación completa incluyendo comentarios en el código y README detallado. Encabezado del programador el el SQL, bootstrap principal. Presentación clara y profesional. | Documentación adecuada y README útil. Presentación clara. | Documentación o README incompletos. Presentación básica. | Falta documentación o README. Presentación pobre o inexistente. |
 
 ### Entrega
 
 - **Plataforma de Entrega:** GitHub Classroom, IP publico funcional en el celudar del docente, calificación manual (no iDoceo)
 - **Fecha de Entrega:** Ver GitHub Project del tema
 
+
+### Recursos
+
+- **PBootstrap:** https://getbootstrap.com
